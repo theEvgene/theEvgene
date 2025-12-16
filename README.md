@@ -4,14 +4,12 @@
     <a href="serikov.evgene@gmail.com">serikov.evgene@gmail.com</a>
     <br>
     <a href="https://www.linkedin.com/in/theEvgene/">LinkedIn</a>
-    <br>  
-    <a href="https://github.com/theEvgene/theEvgene">Github</a>
 </div>
 <br>
 
 ## ABOUT
-Senior Front-end Engineer with 6+ years of commercial experience in Angular, RxJs, Nx technology and creating fast, high-performance, multi-language applications for Middle East, Europe, and Asia users. Worked in fintech, telecom and consulting domains in teams ranging from 2 to 40+ members, both remotely and on-site.
-I successfully led the application migration during the merger of 2 international banks, managed the entire front-end development cycle for a team of 3 developers, conducted a couple of unit-testing workshops for indoor members, increased efficiency by 11.7% - 20% of legacy and modern web solutions.
+Senior Front-end Engineer with 6+ years of commercial experience in Angular, RxJs, Nx technology and creating fast, high-performance, multi-language applications for Middle East, Europe, and Asia users. Worked in fintech, telecom and consulting domains in teams ranging from 2 to 40+ members, both remotely and on-site. 
+I successfully led the application migration during the merger of 2 international banks, managed the entire front-end development cycle for a team of 6 developers, covered hundreds of user-scenarios with tests, increased efficiency by 11.7% - 20% of legacy and modern web solutions. 
 I love Angular and the front-end in general, and my major goals are a focus on enhancing efficiency and a growth to achieve business goals.
 
 Feel free to contact me: serikov.evgene@gmail.com
@@ -45,14 +43,13 @@ Feel free to contact me: serikov.evgene@gmail.com
                 MOBILE TELECOM SYSTEMS
             </a>
             06/2022 – 01/2024
-            <small><small>TELECOMMUNICATIONS | (1.8 YEARS)</small></small>
+            <small><small>TELECOMMUNICATIONS | (1.7 YEARS)</small></small>
         </h4>
         <ul style="padding-left: 30px;">
             <li>Set up the internal front-end development process for an application used by <b>500+ managers</b></li>
-            <li><b>Accelerated</b> the design team's <b>workflow by 13.3%</b> by enabling export of up-to-date widgets from Storybook directly into Figma mockups</li>
-            <li>Conducted a unit testing workshop <b>increasing test coverage by 3.1%</b> across the company's projects</li>
-            <li>Developed a safeguard mechanism to <b>handle missing translations</b> in multilingual apps</li>
+            <li>Introduced Playwright E2E test automation and built a suite of <b>400+ user-scenario tests; cut</b> unit-test execution <b>time by 32%</b> via replacing Jest with Vitest library</li>
             <li><b>Unified the design approach</b> across applications by implementing a single Nx monorepo</li>
+            <li>Developed self-made safeguard mechanism to <b>handle missing translations</b> in multilingual apps</li>
         </ul>
         <span style="margin-left: 15px"><b>Technologies</b>: Figma, Storybook, Apache ECharts, Bootstrap, Jest, TFS</span>
     </li>
@@ -62,7 +59,7 @@ Feel free to contact me: serikov.evgene@gmail.com
                 SPARK INTERFAX
             </a>
             02/2021 – 05/2022
-            <small><small>INFORMATION SERVICES | (1.4 YEARS)</small></small>
+            <small><small>INFORMATION SERVICES | (1.3 YEARS)</small></small>
         </h4>
         <ul style="padding-left: 30px;">
             <li><b>Updated UI-Kit</b> components to meet accessibility (a11y) requirements, supporting <b>100+ developers</b></li>
