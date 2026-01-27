@@ -16,7 +16,7 @@ Feel free to contact me: serikov.evgene@gmail.com
 
 ## SKILLS
 <small>
-    Angular, Nx Monorepo, Ant Design, NgRx, i18n, GitLab, Jest, Apache ECharts, Storybook, Figma, Bootstrap, Team Foundation Server (TFS), AG Grid, UiKit, TypeScript, RxJs, ngx-translate, a11y, Yandex Maps, PrimeNG, vis.js network, MVVM, User Experience (UX), TBD, Backlog refinement, swagger ESLint, ngx-charts, angular2-gridster, Jira, Confluence, vis.js timeline, Git, HTML, CSS, JavaScript, Code review
+    Angular 7+, Nx Monorepo, Ant Design, NgRx, i18n, GitLab, Jest, Apache ECharts, Storybook, Figma, Bootstrap, Team Foundation Server (TFS), AG Grid, UiKit, TypeScript, RxJs, ngx-translate, a11y, Yandex Maps, PrimeNG, vis.js network, MVVM, User Experience (UX), TBD, Backlog refinement, swagger ESLint, ngx-charts, angular2-gridster, Jira, Confluence, vis.js timeline, Git, HTML, CSS, JavaScript, Code review
 </small>
 
 ## EXPERIENCE
