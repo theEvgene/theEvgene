@@ -1,5 +1,5 @@
 # [EVGENE SERIKOV](https://www.linkedin.com/in/theevgene/)
-#### Angular Frontend Developer, 6+ years experience
+#### Angular Frontend Developer, 7 years experience
 <div>
     <a href="serikov.evgene@gmail.com">serikov.evgene@gmail.com</a>
     <br>
