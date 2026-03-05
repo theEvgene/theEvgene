@@ -8,8 +8,8 @@
 <br>
 
 ## ABOUT
-Senior Front-end Engineer with 6+ years of commercial experience in Angular, RxJs, Nx technology and creating fast, high-performance, multi-language applications for Middle East, Europe, and Asia users. Worked in fintech, telecom and consulting domains in teams ranging from 2 to 40+ members, both remotely and on-site. 
-I successfully led the application migration during the merger of 2 international banks, managed the entire front-end development cycle for a team of 6 developers, covered hundreds of user-scenarios with tests, increased efficiency by 11.7% - 20% of legacy and modern web solutions. 
+Front-end Engineer with 7+ years of commercial experience in Angular, RxJs, Nx technology and creating fast, high-performance, multi-language applications for Middle East, Europe, and Asia users. Worked in fintech, telecom and consulting domains in teams ranging from 2 to 40+ members, both remotely and on-site. </br>
+I successfully led the application migration during the merger of 2 international banks, managed the entire front-end development cycle for a team of 6 developers, covered hundreds of user-scenarios with tests, increased efficiency by 11.7% - 20% of legacy and modern web solutions. </br>
 I love Angular and the front-end in general, and my major goals are a focus on enhancing efficiency and a growth to achieve business goals.
 
 Feel free to contact me: serikov.evgene@gmail.com
@@ -26,14 +26,14 @@ Feel free to contact me: serikov.evgene@gmail.com
             <a href="https://www.bankline.ru/ibc/en/login" target="_blank">
                 TINKOFF BANK
             </a>
-            02/2024 - PRESENT
-            <small><small>BANKING | (1+ YEAR)</small></small>
+            | Banking </br>
+            <small><small>02/2024 - PRESENT (2+ YEARS)</small></small>
         </h4>
         <ul style="padding-left: 30px;">
-            <li>Led the front-end migration during the merger of two large banks, <b>ensuring uninterrupted access</b> to online banking services</li>
-            <li><b>Reduced</b> code review <b>time by 11.7%</b> by introducing a comment ranking system</li>
-            <li>Implemented feature flags to <b>minimize downtime</b> from critical issues <b>by 18.7%</b></li>
-            <li>Refactored the legacy application into modules, <b>reducing</b> rendering <b>time by 4.3 seconds</b></li>
+            <li>Led the front-end migration during the merger of 2 large banking, ensuring uninterrupted access to online finance services</li>
+            <li>Reduced code review time by 11.7% by introducing a comment ranking system</li>
+            <li>Implemented feature flags to minimize downtime from critical issues by 18.7%</li>
+            <li>Refactored the legacy application into modules, reducing rendering time by 4.3 seconds</li>
         </ul>
         <span style="margin-left: 15px"><b>Technologies</b>: Angular, Nx Monorepo, ngx-translate, i18n, NgRx, GitLab, Ant Design</span>
     </li>
@@ -42,14 +42,14 @@ Feel free to contact me: serikov.evgene@gmail.com
             <a href="https://www.viva.am/en/individual-customers/new-technologies/esim" target="_blank">
                 MOBILE TELECOM SYSTEMS
             </a>
-            06/2022 – 01/2024
-            <small><small>TELECOMMUNICATIONS | (1.7 YEARS)</small></small>
+            | Telecommunications </br>
+            <small><small>06/2022 – 01/2024 (1.7 YEARS)</small></small>
         </h4>
         <ul style="padding-left: 30px;">
-            <li>Set up the internal front-end development process for an application used by <b>500+ managers</b></li>
-            <li>Introduced Playwright E2E test automation and built a suite of <b>400+ user-scenario tests; cut</b> unit-test execution <b>time by 32%</b> via replacing Jest with Vitest library</li>
-            <li><b>Unified the design approach</b> across applications by implementing a single Nx monorepo</li>
-            <li>Developed self-made safeguard mechanism to <b>handle missing translations</b> in multilingual apps</li>
+            <li>Set up the internal front-end development process for an application used by 500+ managers</li>
+            <li>Introduced Playwright E2E test automation and built a suite of 400+ user-scenario tests; cut unit-test execution time by 32% via replacing Jest with Vitest library</li>
+            <li>Unified the design approach across applications by implementing a single Nx monorepo</li>
+            <li>Developed self-made safeguard mechanism to handle missing translations in multilingual apps</li>
         </ul>
         <span style="margin-left: 15px"><b>Technologies</b>: Figma, Storybook, Apache ECharts, Bootstrap, Jest, TFS</span>
     </li>
@@ -58,14 +58,14 @@ Feel free to contact me: serikov.evgene@gmail.com
             <a href="https://maps.esg-a.ru/about?language=en" target="_blank">
                 SPARK INTERFAX
             </a>
-            02/2021 – 05/2022
-            <small><small>INFORMATION SERVICES | (1.3 YEARS)</small></small>
+            | Information Services </br>
+            <small><small>02/2021 – 05/2022 (1.3 YEARS)</small></small>
         </h4>
         <ul style="padding-left: 30px;">
-            <li><b>Updated UI-Kit</b> components to meet accessibility (a11y) requirements, supporting <b>100+ developers</b></li>
-            <li>Built a flexible UI-Kit of business widgets from scratch and <b>reduced prototyping time by 25%</b></li>
-            <li>Implemented auto API generation <b>reducing bugs by 12.9%</b> and <b>improving</b> development <b>speed by 20%</b></li>
-            <li>Migrated from in-house table components to the AG Grid solution and thus <b>improved UX by 9.4%</b></li>
+            <li>Updated UI-Kit components to meet accessibility (a11y) requirements, supporting 100+ developers</li>
+            <li>Built a flexible UI-Kit of business widgets from scratch and reduced prototyping time by 25%</li>
+            <li>Implemented auto API generation, reducing bugs by 12.9% and improving development speed by 20%</li>
+            <li>Migrated from in-house table components to the AG Grid solution and thus improved UX by 9.4%</li>
         </ul>
         <span style="margin-left: 15px"><b>Technologies</b>: AG Grid, a11y, vis.js network, swagger, PrimeNG</span>
     </li>
@@ -74,11 +74,15 @@ Feel free to contact me: serikov.evgene@gmail.com
             <a href="https://kpmg.com/kz/en/home/services/modern-technologies.html" target="_blank">
                 KPMG
             </a>
-            01/2019 – 01/2021
-            <small><small>IT CONSULTING | (2.1 YEARS)</small></small>
+            | IT Consulting </br>
+            <small><small>01/2019 – 01/2021 (2.1 YEARS)</small></small>
         </h4>
+        <ul style="padding-left: 30px;">
+            <li>Drafted technical specifications, technology strategies, and roadmaps for corporate and regional clients</li>
+            <li>Developed RPA solutions to automate client data updates for banking operations</li>
+        </ul>
     </li>
 </ul>
 
 ## EDUCATION
-MISIS National University of Science and Technologies, Moscow - Metallurgy and Heat Treatment of Materials Bachelor, 2014 – 2018
+MISIS National University of Science and Technologies - Metallurgy and Heat Treatment of Materials - Graduated Bachelor, 2014 – 2018
